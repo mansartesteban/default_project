@@ -1,0 +1,21 @@
+{
+  "name": "mansartesteban.github..io",
+  "version": "1.0.0",
+  "description": "Esteban Mnasart's Portfolio",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm i && vite .",
+    "build": "pnpm i && pnpm build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.9"
+  },
+  "dependencies": {
+    "sass": "^1.80.3"
+  }
+}
