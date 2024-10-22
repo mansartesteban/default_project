@@ -1,7 +1,7 @@
 {
-  "name": "mansartesteban.github..io",
+  "name": "default-project-vite-vue",
   "version": "1.0.0",
-  "description": "Esteban Mnasart's Portfolio",
+  "description": "Default project vite and vue",
   "main": "main.js",
   "type": "module",
   "scripts": {
