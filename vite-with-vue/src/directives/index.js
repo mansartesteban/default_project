@@ -1,3 +1,5 @@
+// import MyDirective from "./MyDirective"
+
 export default (app) => {
-    // app.use(directive)
-}
+  // app.use(MyDirective)
+};
